@@ -1,0 +1,15 @@
+{
+  "name": "playlist-watcher",
+  "version": "1.0.0",
+  "description": "Retrieve playlist from Spotify and port it to Google Music using text matching",
+  "main": "index.js",
+  "dependencies": {
+    "oauth": "^0.9.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
